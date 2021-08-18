@@ -1,6 +1,7 @@
 ### Hii there 👋
 
-![IMG_20210714_140223_911](https://user-images.githubusercontent.com/84166927/129742931-ae022694-00e5-4dff-a4e2-f203961990be.jpg)
+![PicsArt_08-05-07 08 51](https://user-images.githubusercontent.com/84166927/129935170-08ba5a18-cba4-4f20-bb41-0f4221414aae.png)
+
 
 #### Me as unx
 
@@ -15,7 +16,8 @@ Let me introduce myself:
 
 
 
-![IMG_20210714_140235_603](https://user-images.githubusercontent.com/84166927/129685928-0fc5d5f5-3802-4f75-8cd0-76f00699a3a2.jpg)
+![PicsArt_08-05-07 08 13](https://user-images.githubusercontent.com/84166927/129935477-7df4b9cb-6513-4289-9f63-3978413e1673.png)
+
 
 [![WhatsApp Me](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/VJ2PLVAGHO4FG1)
 
