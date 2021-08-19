@@ -20,7 +20,7 @@ Let me introduce myself:
 
 
 <a href="https://wa.me/qr/VJ2PLVAGHO4FG1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
-<a href="https://www.instagram.com/unxzx_.ptr0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/unxzx_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 
