@@ -51,3 +51,11 @@ Let me introduce myself:
 </details>
 
 ##
+
+## Another Pin Project
+<details>
+  <summary>My WhatsApp Bot</summary>
+   <a href="https://github.com/unx21/violet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=violet">
+  </a>
+</details>
