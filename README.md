@@ -52,9 +52,9 @@ Let me introduce myself:
 
 ##
 
-## Another Pin Project
+### Oh Yeaahh
 <details>
-  <summary>My WhatsApp Bot</summary>
+   <summary>&#127942 <b>My WhatsApp Bot</summary>
    <a href="https://github.com/unx21/violet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=violet">
   </a>
