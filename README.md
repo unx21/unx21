@@ -1,8 +1,5 @@
 ### Hii there&nbsp;<a href="Hey"><img src="https://user-images.githubusercontent.com/84166927/131398029-d0af4153-3ebe-4918-bceb-59afe3c10fca.gif" width="48px"></a>
 
-![PicsArt_08-05-07 08 51](https://user-images.githubusercontent.com/84166927/129935170-08ba5a18-cba4-4f20-bb41-0f4221414aae.png)
-
-
 #### Me as unx
 
 Let me introduce myself:
@@ -54,8 +51,10 @@ Let me introduce myself:
 
 ### Oh Yeaahh
 <details>
-   <summary>&#127942 <b>My WhatsApp Bot</summary>
+   <summary>&#127942 <b>My Jobless Project</summary>
    <a href="https://github.com/unx21/violet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=violet">
+   <a href="https://github.com/Rizxyu/Bot-Rain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Bot-Rain">
   </a>
 </details>
