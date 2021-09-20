@@ -1,5 +1,10 @@
 ### Hii there&nbsp;<a href="Hey"><img src="https://user-images.githubusercontent.com/84166927/131398029-d0af4153-3ebe-4918-bceb-59afe3c10fca.gif" width="48px"></a>
 
+
+#### *_I'm Heree_*
+[![Heree](https://img.shields.io/badge/Heree%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ij7zZoDTDgHAi9TTfzu0ay)
+
+
 #### Me as unx
 
 Let me introduce myself:
@@ -7,8 +12,8 @@ Let me introduce myself:
 -  I’m jobless
 -  I’m currently learning how to be better
 -  I’m looking to collaborate with anyone who invites me
--  Ask me about How to be lazy
--  Fun fact: I'm a human
+-  Ask me about how to be lazy
+-  Fun fact: i'm a human
 
 
 
