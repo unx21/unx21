@@ -16,9 +16,8 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
+![IMG_20210827_154401](https://user-images.githubusercontent.com/84166927/135108966-5f433fe9-d3c7-433c-b64f-f83407c638e8.jpg)
 
-
-![PicsArt_08-05-07 08 13](https://user-images.githubusercontent.com/84166927/129935477-7df4b9cb-6513-4289-9f63-3978413e1673.png)
 
 
 <p align="center">
