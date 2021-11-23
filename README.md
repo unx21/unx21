@@ -11,7 +11,7 @@ Let me introduce myself:
 
 -  I’m jobless
 -  I’m currently learning how to be better
--  I’m looking to collaborate with anyone who invites me
+-  I’m looking to .....nothing
 -  Ask me about how to be lazy
 -  Fun fact: i'm a human
 
