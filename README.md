@@ -16,7 +16,7 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
-![IMG_20210827_154401](https://user-images.githubusercontent.com/84166927/135108966-5f433fe9-d3c7-433c-b64f-f83407c638e8.jpg)
+![Watson Padoru](https://user-images.githubusercontent.com/84166927/145361529-770eb00c-2dcf-4764-a271-7a40702bdd11.jpg)
 
 
 
