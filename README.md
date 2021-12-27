@@ -11,12 +11,12 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
-![Watson Padoru](https://user-images.githubusercontent.com/84166927/145361529-770eb00c-2dcf-4764-a271-7a40702bdd11.jpg)
+![Hoshimachi Suisei](https://user-images.githubusercontent.com/84166927/147429905-f57ecd00-1e2b-430a-8c99-a3790e7a5254.jpg)
 
 
 
 <p align="center">
-  <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/Unxzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/Unxzx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
