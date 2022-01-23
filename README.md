@@ -11,7 +11,7 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
-![Ahhmeee](https://user-images.githubusercontent.com/84166927/147842689-8a4ff4b0-978b-4ad9-a881-c858a6533705.jpg)
+![smile](https://user-images.githubusercontent.com/84166927/150681527-d5bcf5a4-07ca-4f3d-aaa9-83bc4b4b6125.png)
 
 
 
