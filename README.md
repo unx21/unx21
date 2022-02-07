@@ -11,8 +11,7 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
-![smile](https://user-images.githubusercontent.com/84166927/150681527-d5bcf5a4-07ca-4f3d-aaa9-83bc4b4b6125.png)
-
+![neko](https://user-images.githubusercontent.com/84166927/152789924-53298371-84c3-4036-8ddf-3abb65e2877b.jpg)
 
 
 <p align="center">
