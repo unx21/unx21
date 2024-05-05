@@ -16,7 +16,7 @@ Let me introduce myself:
 
 <p align="center">
   <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/Unxzx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 
